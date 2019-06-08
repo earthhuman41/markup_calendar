@@ -39,7 +39,7 @@ body {
   }
 
   @for $i from 28 through 31 {
-    &-#{$i} div:nth-child(#{$i+1}) {
+    &-#{$i} div:nth-last-child(-n+#{31-$i}) {
       display: none;
     }
   }
