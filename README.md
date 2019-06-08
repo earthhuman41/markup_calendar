@@ -27,4 +27,4 @@ Please see a [reference image](reference.png).
 
 You are encouraged to use SASS (.scss) for this task. Please do not use JavaScript.
 
-[DEMO](https://earthhuman41.github.io/markup_calendar/index.html)
+[DEMO](https://earthhuman41.github.io/markup_calendar/)
